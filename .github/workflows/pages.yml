@@ -7,6 +7,7 @@ on:
       - "index.html"
       - "terms.html"
       - "privacy.html"
+      - "*.txt"
       - ".github/workflows/pages.yml"
   workflow_dispatch:
 
